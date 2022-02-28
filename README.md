@@ -1,2 +1,2 @@
-# nopcommerce_project
-selenium project using java ,maven  ,testNG ,pom
+# nopcommerce_project using selenium
+project using java ,maven  ,testNG ,pom
